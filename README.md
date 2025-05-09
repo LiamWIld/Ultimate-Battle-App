@@ -7,8 +7,8 @@ This project simulates an epic battle between Yoda and Darth Vader using Java mu
 A shared Water resource ensures that only one contender can hydrate at a time, demonstrating the use of thread synchronization. The first character to complete 200 actions wins.
 
 This assignment focuses on: 
-Multithreading 
-Thread synchronization 
+Multithreading, 
+Thread synchronization, 
 Shared resources
 
 Inputs: No user input is required; all logic is handled internally.
